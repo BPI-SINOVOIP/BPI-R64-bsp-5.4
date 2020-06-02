@@ -43,7 +43,7 @@ Kernel features by version
 | SATA           |  Y   |  Y  |
 | RTL8367 (<v1)  |  Y   |  Y  |
 | MT7631 (v1+)   |  Y   |  Y  |
-| DSA            |  N   |  N  |
+| DSA            |  N   |  Y  |
 | USB            |  Y   |  Y  |
 | VLAN           |      |     |
 | HW NAT         |      |     |
